@@ -2,7 +2,7 @@
 Repositorio de desarollo de aplicaciones de SenaDev
 
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Jorge Señaris 👋
-### Freelance full-stack web develpment
+### Freelance full-stack web development
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
