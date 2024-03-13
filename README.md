@@ -15,7 +15,8 @@ Repositorio de desarollo de aplicaciones de SenaDev
 
 Soy ingeniero multimedia desde hace varios años.
 
-En 2019 empecé mi aventura en el mundo del diseño y desarrollo web compaginandolo con mi trabajo como asistente de gerencia en un restaurante de una multinacional. En esta aventura me desarrollé tanto en el campo de la experiencia de usuario (UX/UI) como en el campo del desarrollo de aplicaciones web consiguiendo una perspectiva completa del proceso de creación de una aplicación. Actualmente, continuo desarrollándome con nuevas tecnologías para dominar también el campo de las aplicaciones de móviles tanto de Android como de IOS.  
+En 2019 empecé mi aventura en el mundo del diseño y desarrollo web compaginándolo con mi trabajo como asistente de gerencia en un restaurante de una multinacional. En esta aventura me desarrollé tanto en el campo de la experiencia de usuario (UX/UI) como en el campo del desarrollo de aplicaciones web consiguiendo una perspectiva completa del proceso de creación de una aplicación. Actualmente, continúo desarrollándome con nuevas tecnologías para dominar también el campo de las aplicaciones de móviles tanto de Android como de IOS.
+  
 
 
 ## Tecnologías:
